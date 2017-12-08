@@ -18,6 +18,8 @@ this.fullName = fullName;
 public String getTitle() {
 return title;
 }
+
+// some demo comments
 public void setTitle(String title) {
 this.title = title;
 }
